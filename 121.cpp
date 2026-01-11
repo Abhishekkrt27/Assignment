@@ -1,0 +1,13 @@
+//121. Program using cin and cout.
+
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    int a;
+    cout << "Enter a number: ";
+    cin >> a;
+    cout << "You entered: " << a;
+    return 0;
+}
