@@ -1,17 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
+# 📚 College Programming Assignments
+
+Welcome to my **Assignment Repository** 👋  
+This repository contains a well-organized collection of **college programming assignments**, written as part of my academic coursework.  
+All programs are implemented with a focus on **clarity, correctness, and learning fundamentals**.
+
+---
+
+## 🧑‍🎓 Student Information
+
+- **Name:** Abhishek Kumar Thakur
+- **Class Roll no:** 03  
+- **University Roll no:** 24292159 
+- **Subject:** Object Oriented Programming Using C++
+- **Course:** Computer Science and Engineering
+- **Semester** III
+- **College:** Netaji Subhas University
+- **Purpose:** Academic Assignments & Practice Programs  
+
+---
 
 
-  <div class="card">
-    <h2>Student Details</h2>
-    <p><span class="label">Name:</span> Abhishek Kumar Thakur</p>
-    <p><span class="label">Class Roll No:</span> 03</p>
-    <p><span class="label">University Roll No:</span> 24292159</p>
-    <p><span class="label">Course/Subject:</span> Object Oriented Programming Using C++</p>
-    <p><span class="label">College:</span> Netaji Subhas University</p>
-    <p><span class="label">Semester:</span> III</p>
-    
-  </div>
 
-</body>
-</html>
+## 🛠️ Technologies & Languages Used
+
+- 💻 **C++**
+- 🔁 Control Structures & Loops
+- 🧮 Object-Oriented Programming
+- 📂 File Handling
+- ⚠️ Exception Handling
+
+---
+
+
