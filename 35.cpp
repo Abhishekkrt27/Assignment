@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    int a[2][2], b[2][2], sum[2][2];
+    int a[2][2],b[2][2],sum[2][2];
 
     cout << "Enter elements of matrix A:\n";
     for (int i = 0; i < 2; i++)
@@ -41,4 +41,5 @@ int main() {
         cout << endl;
     }
     return 0;
+
 }
