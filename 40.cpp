@@ -26,4 +26,5 @@ int main()
     cout << "Marks: " << s.marks << endl;
 
     return 0;
+
 }
